@@ -1,0 +1,6 @@
+framework module Pods_XCoordinatorDemo_XCoordinatorDemoUITests {
+  umbrella header "Pods-XCoordinatorDemo-XCoordinatorDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
